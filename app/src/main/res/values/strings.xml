@@ -1,0 +1,9 @@
+<resources>
+    <string name="App_title">Places near me</string>
+    <string name="test_text">Test Text</string>
+    <string name="Flinderstation">Flinders street  station</string>
+    <string name="Coles">coles</string>
+    <string name="YarraRiver"> Yarra River</string>
+    <string name="GreatOceanRoad">Great Ocean Road</string>
+    <string name="App_">Places near me</string>
+</resources>
